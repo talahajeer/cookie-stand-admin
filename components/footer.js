@@ -4,4 +4,4 @@ export default function Footer() {
            2021 &copy;            
         </footer>
         
-    )
+    )}
