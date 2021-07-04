@@ -1,7 +1,7 @@
 import Head1 from './Head'
-import Header from './Header'
-import Footer from './Footer'
-import Main from './Main'
+import Header from './header'
+import Footer from './footer'
+import Main from './main'
 import React, { useEffect, useState } from 'react'
 
 
